@@ -13,7 +13,7 @@ print("x * y = ", x*y)
 #pembagian
 print("x / y = ", x/y)
 
-#sisabagi modulus
+#sisabagi atau modulus
 print("x % y = ", x%y)
 
 #pangkat
